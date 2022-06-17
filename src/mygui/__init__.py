@@ -4,7 +4,7 @@ from tkinter import Entry, Label
 
 
 def lgrid(self, text, gridcol, gridrow, **args):
-    """  Label Maker
+    """  Label Maker for quick labels in a GUI window.
     Example :
         lgrid(root,'text to enter',0,0,**args)
 
@@ -16,7 +16,7 @@ def lgrid(self, text, gridcol, gridrow, **args):
 
 
 def egrid(self, col, row, *args, **kwarg):
-    """ Entry Maker
+    """ Entry Maker for a quick entry in a GUI window.
     Example:
     egrid(root,1,0)
     """
