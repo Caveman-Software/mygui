@@ -1,6 +1,15 @@
 
 
-# mygui 0.1.6
+# mygui 0.1.7
+
+## Caveman Software 2022
+
+.. image:: icon.png
+   :height: 100px
+   :width: 200 px
+   :scale: 50 %
+   :alt: alternate text
+   :align: right
 
 ## lgrid
 
