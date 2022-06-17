@@ -1,15 +1,10 @@
 
 
-# mygui 0.1.7
+# mygui 0.1.9
 
-## Caveman Software 2022
+## Caveman Software® 2022
+![icon.png](https://raw.githubusercontent.com/Caveman-Software/mygui/main/Icon.png)
 
-.. image:: icon.png
-   :height: 100px
-   :width: 200 px
-   :scale: 50 %
-   :alt: alternate text
-   :align: right
 
 ## lgrid
 
